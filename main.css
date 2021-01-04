@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(black, red, orange, yellow);
+}
+p{
+    font-size: 20px;
+    color: black;
+    font-family: monospace;
+}
+h1{
+    font-family: cursive;
+}
+.line{
+     background-color: black;
+ border: 5px solid black;
+ width: 90px;
+ margin: auto;
+}
+.links{
+ display: inline;
+ font-size: 30px;
+ font-family: cursive;
+ color: yellow;
+ margin: auto;
+ padding-top: 5px;
+ padding-left: 9px;
+ padding-right: 9px;
+ padding-bottom: 5px;
+}
+.links:hover{
+  background-color: lightgrey;
+}
+a{
+      text-decoration: none;
+     color: darkgoldenrod;
+}
+.stars{
+    border: 1px solid black;
+}
